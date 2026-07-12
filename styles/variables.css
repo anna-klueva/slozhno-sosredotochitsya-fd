@@ -1,4 +1,3 @@
-
 :root {
   --main-font: "IBM Plex Mono", monospace;
 
@@ -9,4 +8,5 @@
   --title-color: #db00ff;
   --accent-color: #ff0070;
   --accent-text-color: #000028;
+  --button-hover-border-color: #ff007066;
 }
