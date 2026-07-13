@@ -5,8 +5,6 @@
 */
 
 :root.theme-light {
-  color-scheme: light;
-
   --background-color: #fff1f7;
   --background-image: url("../images/cover-image-light.png");
 
@@ -24,8 +22,6 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    color-scheme: light;
-
     --background-color: #fff1f7;
     --background-image: url("../images/cover-image-light.png");
 
