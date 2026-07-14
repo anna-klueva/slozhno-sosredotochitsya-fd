@@ -14,10 +14,7 @@
   --accent-text-color: #353430;
   --button-hover-border-color: #32312d66;
   --decor-color: #353430;
-}
-
-:root.theme-light .header__rec {
-  display: none;
+  --rec-display: none;
 }
 
 @media (prefers-color-scheme: light) {
@@ -31,9 +28,6 @@
     --accent-text-color: #353430;
     --button-hover-border-color: #32312d66;
     --decor-color: #353430;
-  }
-
-  .header__rec {
-    display: none;
+    --rec-display: none;
   }
 }
